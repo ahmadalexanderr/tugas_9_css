@@ -1,0 +1,21 @@
+img {
+    position: static;
+    width: auto;
+    height: auto;
+    z-index: 1;
+    position: fixed;
+}
+
+div {
+    background-color: white;
+    top: 30px;
+    right: 30px;
+    position: relative;
+    z-index: 2;
+    float: right;
+    width: 600px;
+    height: 300px;
+    text-align: right;
+    font-weight: bold;
+    overflow: scroll;
+}
